@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
 :root {
     --dark-body: #4d4c5a;
     --dark-main: #141529;
@@ -16,7 +18,7 @@
 
     --shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 
-    --font-family: cursive;
+    --font-family: Righteous;
 }
 
 .dark {
